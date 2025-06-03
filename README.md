@@ -37,12 +37,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=E6E6FA&lines=My%2C+Waifu+Collection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=E6E6FA&lines=My%2C+other+profiles" />
 </p>
 
 <p align="center">
   <img src="https://i.ibb.co/3Qxp3Sg/x.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/nM1fxK31/photo-2025-04-29-17-47-11-7498793142519332880.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/Y4f3kqzX/x.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.ibb.co/fzHjLTXX/photo-2025-04-29-18-37-54-7498806212104814608.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
 </p>
