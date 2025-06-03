@@ -32,8 +32,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardust-community&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&border=FF3C3C&stroke=FF3C3C" />
 </p>
 
-
-<img src="https://i.pinimg.com/originals/5f/a0/e3/5fa0e3e226de58362578fd5e28caabf1.gif"> <img src="https://i.pinimg.com/originals/7d/d6/04/7dd604d49b6a2c0e2b68ed71017e5f35.gif">
+<p align="center">
+<img src="https://i.pinimg.com/originals/5f/a0/e3/5fa0e3e226de58362578fd5e28caabf1.gif">
+<img src="https://i.pinimg.com/originals/7d/d6/04/7dd604d49b6a2c0e2b68ed71017e5f35.gif">
+</p>
 
 
 <p align="center">
