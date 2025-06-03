@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+cutie+Welcome+to+my+Bio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=A020F0&lines=Hey+cutie+Welcome+to+my+Bio" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hi!%2C+I'm+stardust+sanctuary;I'm++just+a+cutie+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=A020F0&lines=Hi!%2C+I'm+stardust+sanctuary;I'm++just+a+cutie+" />
 </p>
 
 
@@ -25,11 +25,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-Community&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=FF3C3C&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-Community&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=A020F0&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardust-community&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&dates=ffffff&border=FF3C3C&stroke=FF3C3C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardust-community&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&border=FF3C3C&stroke=FF3C3C" />
 </p>
 
 
@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FFFFFF&lines=My%2C+Waifu+Collection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=E6E6FA&lines=My%2C+Waifu+Collection" />
 </p>
 
 <p align="center">
