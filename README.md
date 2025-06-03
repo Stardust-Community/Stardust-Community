@@ -43,8 +43,8 @@
 <p align="center">
   <img src="https://i.ibb.co/3Qxp3Sg/x.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.ibb.co/Y4f3kqzX/x.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/fzHjLTXX/photo-2025-04-29-18-37-54-7498806212104814608.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/cSCqtJ0Y/x.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/5gCMx8rj/x.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
