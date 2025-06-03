@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-Community&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=A020F0&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-Community&show_icons=true&theme=transparent&hide_border=true&icon_color=E6E6FA&title_color=A020F0&text_color=FFFFFF" />
 </p>
 
 <p align="center">
