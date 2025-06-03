@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardust-community&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&border=FF3C3C&stroke=FF3C3C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardust-community&theme=github-dark&hide_border=true&ring=FF3C3C&fire=A020F0&currStreakLabel=E6E6FA&sideLabels=E6E6FA&sideNums=FF3C3C&border=FF3C3C&stroke=FF3C3C" />
 </p>
 
 <p align="center">
