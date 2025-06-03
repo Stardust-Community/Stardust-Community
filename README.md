@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/5f/a0/e3/5fa0e3e226de58362578fd5e28caabf1.gif">
+<img src="https://i.pinimg.com/originals/5f/a0/e3/5fa0e3e226de58362578fd5e28caabf1.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/originals/39/22/16/3922169d403c173fb21242622dd1ead5.gif">
 </p>
 
